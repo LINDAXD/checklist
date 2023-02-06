@@ -43,3 +43,7 @@ body{
 .task-done{
     text-decoration: line-through;
 }
+
+.task-tabs div{
+cursor: pointer;
+}
